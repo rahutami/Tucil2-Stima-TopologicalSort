@@ -1,0 +1,53 @@
+Sumber data: ../test/informatika.txt
+
+Berikut adalah rencana studi yang bisa Anda ambil:
+
+Semester 1:
+- FI1101
+- KU1011
+- KU1011
+- KU1024
+- KI1002
+- KU1102
+- MA1101
+
+Semester 2:
+- MA1201
+- FI1201
+- IF1210
+- KU1202
+- EL1200
+
+Semester 3:
+- IF2123
+- IF2130
+- IF2110
+- IF2120
+- IF2124
+- IF2121
+
+Semester 4:
+- IF2220
+- IF2230
+- IF2210
+- IF2211
+- IF2240
+- IF2250
+
+Semester 5:
+- IF3170
+- IF3110
+- IF3130
+- IF3141
+- IF3151
+- IF3150
+- IF3140
+
+Semester 6:
+- IF3230
+- IF3250
+- IF3260
+- IF3280
+- IF3210
+- IF3270
+

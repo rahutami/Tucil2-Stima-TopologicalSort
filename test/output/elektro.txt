@@ -1,0 +1,56 @@
+Sumber data: ../test/elektro.txt
+
+Berikut adalah rencana studi yang bisa Anda ambil:
+
+Semester 1:
+- MA1101
+- KU1011
+- KU1024
+- KI1002
+- FI1101
+- KU1011
+- KU1102
+
+Semester 2:
+- IF1210
+- KU1202
+- MA1201
+- FI1201
+- EL1200
+
+Semester 3:
+- EL2001
+- EL2101
+- EL2007
+- MA2072
+- EL2102
+- EL2003
+- EL2208
+- EL2002
+- EL2004
+- EL2008
+
+Semester 4:
+- EL3017
+- EL3111
+- EL3012
+- EL3217
+- MA2074
+- EL3010
+- EL3110
+- EL3011
+- EL3015
+- EL2005
+- EL2205
+- EL2006
+- EL3011
+- EL3215
+
+Semester 5:
+- EL3109
+- EL3013
+- EL3014
+- EL3009
+- EL3110
+- EL3214
+

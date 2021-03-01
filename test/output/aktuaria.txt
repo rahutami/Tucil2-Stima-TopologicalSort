@@ -1,0 +1,50 @@
+Sumber data: ../test/aktuaria.txt
+
+Berikut adalah rencana studi yang bisa Anda ambil:
+
+Semester 1:
+- KI1101
+- KU1011
+- KU1160
+- KU1102
+- KU1024
+- KU1001
+- MA1101
+- FI1101
+
+Semester 2:
+- MA1201
+- FI1201
+- KU1202
+- KI1201
+
+Semester 3:
+- MA2271
+- AK2163
+- MA2021
+- MA2031
+- MA2181
+
+Semester 4:
+- MA2281
+- MA3071
+- AK2264
+- AK2263
+- AK2281
+
+Semester 5:
+- MA3181
+- AK3182
+
+Semester 6:
+- AK3283
+- MA3281
+- MA3271
+
+Semester 7:
+- AK4183
+- AK4185
+
+Semester 8:
+- AK4285
+

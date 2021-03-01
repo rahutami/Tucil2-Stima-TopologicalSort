@@ -1,0 +1,50 @@
+Sumber data: ../test/astronomi.txt
+
+Berikut adalah rencana studi yang bisa Anda ambil:
+
+Semester 1:
+- MA1101
+- FI1101
+- KI1101
+- KU1011
+- KU1024
+- KU1001
+- KU1160
+- KU1102
+
+Semester 2:
+- MA1201
+- FI1201
+- KU1202
+- KI1201
+
+Semester 3:
+- FI2102
+- AS2103
+- AS2104
+- AS2111
+- AS2112
+- AS2102
+
+Semester 4:
+- AS2202
+- AS2204
+- AS2212
+- FI2202
+- AS2211
+- AS2213
+
+Semester 5:
+- AS3113
+- AS3105
+- AS3112
+- AS3111
+- AS3101
+- AS3201
+- AS3202
+
+Semester 6:
+- AS4103
+- AS3211
+- AS3204
+
